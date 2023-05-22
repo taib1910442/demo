@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: trant
+Build-Jdk: Azul Zulu version 1.8.0_372
+Implementation-Title: demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.simple
+Main-Class: ${start-class}
+
